@@ -46,4 +46,5 @@ nosetests.xml
 *.log
 .venv
 .idea
+.cursorignore
 .DS_Store
